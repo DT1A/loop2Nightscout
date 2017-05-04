@@ -1,0 +1,22 @@
+{
+  "name": "loop2nightscout",
+  "version": "1.0.0",
+  "description": "Fix-tape solution for who don't get BG values in Nightscout while using Loop.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "loop2n"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DT1A/"
+  },
+  "keywords": [
+    "loop",
+    "nightscout",
+    "BG_values",
+    "T1"
+  ],
+  "author": "Raúl Sánchez",
+  "license": "MIT"
+}
